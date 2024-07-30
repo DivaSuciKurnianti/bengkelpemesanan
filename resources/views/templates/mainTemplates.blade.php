@@ -26,7 +26,7 @@
 
         <nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
             <div class="container px-5">
-                <a class="navbar-brand fw-bold" href="#page-top"><img src="/img/logoo.png" width= "100 px" alt="Super Laundry"></a>
+                <a class="navbar-brand fw-bold" href="#page-top"><img src="/img/logo.png" width= "50 px" alt="Super Laundry"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="bi-list"></i>
@@ -75,7 +75,7 @@
                     <div class="col-md-3">
                         <div class="row">
                             <div class="col-auto"><i class="bi bi-geo-alt-fill"></i> Alamat: </div>
-                            <div class="col-auto"><p>JL. Pak Benceng Gg. Morodadi 5 Jalur 1 No.10, PONTIANAK KOTA, KALBAR</p></div>
+                            <div class="col-auto"><p>JL. Gajahmada No 42, Pontianak Kota , Kalimantan Barat</p></div>
                         </div>
                         <hr>
                     </div>

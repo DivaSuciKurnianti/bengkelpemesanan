@@ -20,7 +20,6 @@
                       <tr>
                         <th>#</th>
                         <th>Product Name</th>
-                        <th>Kg</th>
                         <th>Price</th>
                         <th>Qty</th>
                       </tr>
@@ -41,7 +40,6 @@
                                     </form>
                                 </td>
                                 <td>{{ $cart->product->name }}</td>
-                                <td>{{ $cart->product->kg }}</td>
                                 <td>{{ $cart->product->price }}</td>
                                 <td>1</td>
                             </tr>

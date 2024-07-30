@@ -8,8 +8,8 @@
                     <div class="col-lg-6">
                         <!-- Mashead text and app badges-->
                         <div class="mb-5 mb-lg-0 text-center text-lg-start">
-                            <h1 class="display-1 lh-1 mb-3">SUPER LAUNDRY</h1>
-                            <p class="lead fw-normal text-bloat mb-5">Butuh tenaga nyuci dan nyetrika tanpa harus membayar pembantu rumah tangga? Super laundry solusinya. Sewa pembantu rumah tangga terlalu mahal, tapi butuh nyuci dan nyetrika harian, gimana ya solusinya? tenang! Ada Super Laundry yang bisa jadi sahabat nyuci dan nyetrika harian kamu</p>
+                            <h1 class="display-1 lh-1 mb-3">Pemesanan Bengkel</h1>
+                            <p class="lead fw-normal text-bloat mb-5">Pemesanan Bengkel solusi dari semua permasalahan. Ada Pemesanan Bengkel yang bisa jadi sahabat memodifikasi kendaraan anda!</p>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -27,7 +27,7 @@
                             <div class="device-wrapper">
                                 <div class="device" data-device="iPhoneX" data-orientation="portrait" data-color="black">
                                     <div class="screen">
-                                        <img src="/img/hero.png" style="width: 180%; height: 100%;" alt="hero">
+                                        <img src="/img/logo.png" style="width: 180%; height: 100%;" alt="hero">
                                     </div>
                                 </div>
                             </div>
@@ -41,7 +41,7 @@
         <div class="container px-5">
             <div class="row gx-5 justify-content-center">
                 <div class="col-xl-8">
-                    <div class="h2 dispay-1 text-white mb-3">"Solusi tepat untuk anda terbebas dari jemuran, simpel, bersih, dan hemat waktu"</div>
+                    <div class="h2 dispay-1 text-white mb-3">"Solusi tepat untuk anda terbebas Kebingungan anda dalam peralatan yang diperlukan untuk modifikasi!"</div>
                 </div>
             </div>
         </div>

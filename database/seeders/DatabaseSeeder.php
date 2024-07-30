@@ -22,31 +22,27 @@ class DatabaseSeeder extends Seeder
 
         Product::create([
             'id' => '1',
-            'name' =>'Baju',
-            'kg' => '5',
-            'price' => '30000',
-            'image' => 'baju.png'
+            'name' =>'Hammer Drill',
+            'price' => '300000',
+            'image' => 'Hammerdrill.png'
         ]);
         Product::create([
             'id' => '2',
-            'name' =>'Sepatu',
-            'kg' => '1',
-            'price' => '30000',
-            'image' => 'sepatu.png'
+            'name' =>'HandTool',
+            'price' => '250000',
+            'image' => 'handtool.png'
         ]);
         Product::create([
             'id' => '3',
-            'name' =>'Bed Cover',
-            'kg' => '5',
+            'name' =>'Kunci Inggris',
             'price' => '50000',
-            'image' => 'bedcover.png'
+            'image' => 'kunciinggris.png'
         ]);
         Product::create([
             'id' => '4',
-            'name' =>'Selimut',
-            'kg' => '2',
-            'price' => '25000',
-            'image' => 'selimut.png'
+            'name' =>'ToolBox',
+            'price' => '150000',
+            'image' => 'toolbox.png'
         ]);
     }
 }
